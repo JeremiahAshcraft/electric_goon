@@ -431,9 +431,9 @@ body:not(.user-is-tabbing) a:focus {
     .header {
         background: url('./images/lightbulbsmall2.jpg');
         text-align: center;
-        background-size: contain;
+        background-size: cover;
         background-repeat: no-repeat;
-        background-position: bottom;
+        background-position: center;
     }
 
     .header__text p {
