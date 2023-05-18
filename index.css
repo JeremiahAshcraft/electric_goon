@@ -431,8 +431,8 @@ body:not(.user-is-tabbing) a:focus {
     .header {
         background: url('./images/lightbulb.jpg');
         text-align: center;
-        
-        
+        background-size: contain;
+        background-repeat: no-repeat;
         background-position: center;
         background-attachment: none;
     }
