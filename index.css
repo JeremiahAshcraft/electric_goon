@@ -430,6 +430,7 @@ body:not(.user-is-tabbing) a:focus {
 @media(max-width: 500px) {
     .header {
         text-align: center;
+        background-size: auto;
     }
 
     .header__text p {
