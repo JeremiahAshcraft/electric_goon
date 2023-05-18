@@ -429,12 +429,11 @@ body:not(.user-is-tabbing) a:focus {
 
 @media(max-width: 500px) {
     .header {
-        background: url('./images/lightbulb.jpg');
+        background: url('./images/lightbulbsmall2.jpg');
         text-align: center;
         background-size: contain;
         background-repeat: no-repeat;
-        background-position: center;
-        background-attachment: fixed;
+        background-position: bottom;
     }
 
     .header__text p {
