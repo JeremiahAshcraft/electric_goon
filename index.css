@@ -433,7 +433,6 @@ body:not(.user-is-tabbing) a:focus {
         url('./images/lightbulbsmall2.jpg');
     height: 100vh;
     background-size: cover;
-    background-position: center;
     
     font-size: var(--font-size-normal);
     }
