@@ -430,7 +430,7 @@ body:not(.user-is-tabbing) a:focus {
 @media(max-width: 500px) {
     .header {
         text-align: center;
-        background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4))
+        background: none;
     }
 
     .header__text p {
