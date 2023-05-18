@@ -442,7 +442,7 @@ body:not(.user-is-tabbing) a:focus {
 
     .header__text {
         width: 100%;
-        top: 25%;
+        top: 30%;
         text-align: center;
     }
 
