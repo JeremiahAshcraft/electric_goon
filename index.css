@@ -430,7 +430,7 @@ body:not(.user-is-tabbing) a:focus {
 @media(max-width: 500px) {
     .header {
         background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('./images/lightbulbsmall3.png');
+        url('./images/lightbulbsmall5.png');
         height: 100vh;
         background-size: cover;
         font-size: var(--font-size-normal);
