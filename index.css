@@ -432,6 +432,8 @@ body:not(.user-is-tabbing) a:focus {
         text-align: center;
         background-size: contain;
         background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: none;
     }
 
     .header__text p {
