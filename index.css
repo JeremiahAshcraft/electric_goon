@@ -429,11 +429,11 @@ body:not(.user-is-tabbing) a:focus {
 
 @media(max-width: 500px) {
     .header {
-        background: 
+        background: linear-gradient(transparent),
         url('./images/lightbulb.jpg');
         text-align: center;
         background-size: contain;
-
+        background-repeat: no-repeat;
     }
 
     .header__text p {
