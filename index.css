@@ -433,11 +433,6 @@ body:not(.user-is-tabbing) a:focus {
         background-size: contain;
     }
 
-    .header__text {
-        position: relative;
-        transform: translateY(50%);
-    }
-
     .header__text p {
         transform: scale(.8);
     }
