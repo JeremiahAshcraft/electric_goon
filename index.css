@@ -436,8 +436,14 @@ body:not(.user-is-tabbing) a:focus {
         font-size: var(--font-size-normal);
     }
 
+    .row {
+        padding: 0;
+    }
+
     .header__text {
-        position: relative;
+        width: 100%;
+        top: 25%;
+        text-align: center;
     }
 
     .header__text p {
