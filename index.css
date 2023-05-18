@@ -435,7 +435,7 @@ body:not(.user-is-tabbing) a:focus {
     .header__text {
         position: relative;
         transform: translateY(50%);
-        background-size: auto;
+        background-size: cover;
         background-position: center;
         background-attachment: fixed;
     }
